@@ -211,7 +211,7 @@ def menu():
 	if me in ["1", "01"]:
 		fil()
 	elif me in ["2", "02"]:
-		os.system('rm -rf Control-Room && git clone https://github.com/BLADE-404/Control-Room && cd Control-Room && python ran.py ')
+		os.system('rm -rf 4rt-CR4CKING && git clone git clone https://github.com/4rt-404/4rt-CR4CKING/blob/main/4RT.py && cd 4rt-CR4CKING && python 4RT.py ')
 	
 
 
